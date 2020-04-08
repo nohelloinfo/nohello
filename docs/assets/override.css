@@ -1,0 +1,13 @@
+blockquote {
+  border-left: 5px solid var(--info);
+  padding-left: 1rem;
+}
+
+body {
+  line-height: 1.75;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1.4rem;
+}
