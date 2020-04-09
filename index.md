@@ -1,8 +1,8 @@
-## Please don't just say "hello"
+# Please don't just say "hello"
 
-Chances are you were sent here by someone within Slack, IRC or another chat after you've started the conversation just saying "Hello" or "Good Morning!" waiting for a response and now you're curios what they tried to tell you with this link…
+Chances are you were sent here by someone within Slack, IRC or another chat after you've started the conversation just saying **"Hello"** or **"Good Morning!"** waiting for a response and now you're curios what they tried to tell you with this link...
 
-### Have I done something wrong?
+## Have I done something wrong?
 
 Well, yes and no:
 
@@ -19,8 +19,8 @@ In this example Alice received Freds chat, stopped working on the task she was w
 
 Now lets take a look at another example:
 
-> _9:34_ **Fred:** Hey Alice, I was wondering whether you can tell me […]?  
-> _9:40_ **Alice:** Hey, of course […]
+> _9:34_ **Fred:** Hey Alice, I was wondering whether you can tell me [...]?  
+> _9:40_ **Alice:** Hey, of course [...]
 
 Here some things went better than in the example above:
 
