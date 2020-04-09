@@ -1,6 +1,6 @@
-default:
+default: bundle generate
 
-generate: bundle
+generate:
 	korvike -i template.html -o docs/index.html
 
 bundle:
